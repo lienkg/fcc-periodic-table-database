@@ -1,2 +1,2 @@
 # periodic-table-database
-freeCodeCamp Project (Relational Database Certification)
+This Periodic Table Database was built as part of the freeCodeCamp Relational Database Certification.
